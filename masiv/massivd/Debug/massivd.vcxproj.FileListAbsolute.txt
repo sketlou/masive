@@ -1,0 +1,12 @@
+C:\Users\iljab\source\repos\massiv\massivd\Debug\massivd.vcxprojAssemblyReference.cache
+C:\Users\iljab\source\repos\massiv\massivd\Debug\massivd.MyForm.resources
+C:\Users\iljab\source\repos\massiv\massivd\Debug\massivd.vcxproj.GenerateResource.cache
+C:\Users\edgei\Desktop\massiv-master\massivd\Debug\massivd.vcxprojAssemblyReference.cache
+C:\Users\edgei\Desktop\massiv-master\massivd\Debug\massivd.MyForm.resources
+C:\Users\edgei\Desktop\massiv-master\massivd\Debug\massivd.vcxproj.GenerateResource.cache
+C:\Users\edgei\Desktop\массив\massivd\Debug\massivd.vcxprojAssemblyReference.cache
+C:\Users\edgei\Desktop\массив\massivd\Debug\massivd.MyForm.resources
+C:\Users\edgei\Desktop\массив\massivd\Debug\massivd.vcxproj.GenerateResource.cache
+C:\Users\edgei\Desktop\masiv\massivd\Debug\massivd.vcxprojAssemblyReference.cache
+C:\Users\edgei\Desktop\masiv\massivd\Debug\massivd.MyForm.resources
+C:\Users\edgei\Desktop\masiv\massivd\Debug\massivd.vcxproj.GenerateResource.cache
